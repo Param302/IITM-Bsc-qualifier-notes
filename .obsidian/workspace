@@ -1,0 +1,149 @@
+{
+  "main": {
+    "id": "91d70e81f8a9f7ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "20e4ff5830701a43",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Mathematics-I/L1.4-Set-Theory.md.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c3162296f3756d2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "957f1c7450181962",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8132df9cafe4ea95",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1c7305fc88b650d2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "14a71ea6b1bb061d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 295
+  },
+  "right": {
+    "id": "a72864bc57eb1e1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ad498f8fd6106a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cab757712b30bf10",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mathematics-I/L1.4-Set-Theory.md.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7048ee8760dee7ab",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Mathematics-I/L1.4-Set-Theory.md.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1d43779a74fe163d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b85ba41b4b164105",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Mathematics-I/L1.4-Set-Theory.md.md"
+              }
+            }
+          },
+          {
+            "id": "d19cd124237f370a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 284
+  },
+  "active": "20e4ff5830701a43",
+  "lastOpenFiles": [
+    "Mathematics-I/L1.3-Real-and-complex-numbers.md.md",
+    "Mathematics-I/L1.4-Set-Theory.md.md",
+    "Mathematics-I/L1.1-Natural-numbers-and-their-operations.md.md",
+    "Mathematics-I/L1.2-Rational-numbers.md.md",
+    "Mathematics-I/images/Pasted image 20220905142351.png",
+    "Mathematics-I/images/number_line_mpvons.webp",
+    "Pasted image 20220905142351.png 200.md"
+  ]
+}

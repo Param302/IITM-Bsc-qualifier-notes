@@ -1,0 +1,9 @@
+{
+  "showFrontmatter": true,
+  "showLineNumber": true,
+  "spellcheck": true,
+  "promptDelete": false,
+  "showUnsupportedFiles": true,
+  "readableLineLength": false,
+  "strictLineBreaks": true
+}
